@@ -85,14 +85,5 @@
         }
       ]
     },
-    "message": "Questions fetched successfully",
-    "activity": {
-      "id": "3c576049-9ea9-4b5c-9fb7-4b316adaaaa0",
-      "userId": "c6ad08a5-67ac-4a4d-aa3a-16d7fe91d51c",
-      "type": "VERSANT_CATEGORY_TEST",
-      "coinType": "DEDUCTED",
-      "coins": 20,
-      "description": "Used Versant Category Test",
-      "createdAt": "2025-04-10T06:42:21.041Z"
-    }
-  }
+    "message": "Questions fetched successfully"
+}
